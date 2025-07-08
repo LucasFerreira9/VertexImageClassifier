@@ -1,7 +1,11 @@
 {
   "name": "vertex-image-classifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package to make it easier to use vertex AI with Google autoML for image classification",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasFerreira9/VertexImageClassifier.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
